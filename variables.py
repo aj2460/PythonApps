@@ -22,8 +22,8 @@ print(3**2)
 # # print(dir(message))
 # # help(message.replace)
 # print(message[1:])
-# print(message[:-1])
-# print(message[-1::-1])
+# print(message[:-1])  
+# print(message[-1::-1]) 
 
 # fruits=["Apple","Orange","Banana",45]
 # print(fruits[1])
