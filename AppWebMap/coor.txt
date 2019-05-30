@@ -1,0 +1,4 @@
+lat,long,info,ele
+8.8546419,76.9239883,Kuvedi,110
+8.852884, 76.925129,S R Two Wheeler Workshop,30
+8.851599, 76.922740,Sri Unnankallu Devi Temple,150
