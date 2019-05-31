@@ -24,3 +24,7 @@ and PUSH the changes to heroku
 
 
 
+--------------
+make exe
+pyinstaller --onefile --windowed scriptDesktop.py
+
