@@ -1,0 +1,26 @@
+heroku login
+
+heroku create kuvedi
+>heroku apps
+
+git init
+git add .
+git commit -m "initial"
+
+>heroku git:remote --app kuvedi
+
+>git push heroku master
+
+
+heroku info
+
+--------------
+to update the heroku site
+make the changes in the local repo
+add to git
+commit the changes
+
+and PUSH the changes to heroku
+
+
+
